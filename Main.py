@@ -18,7 +18,6 @@ _input.get_input()
 _binary = Bg.Generator()
 _binary.binary_string_generator()
 #  list of Chromosomes (Binary Strings)
-i=0
 # Creating an object of FitnessFunction class (_fit)
 while True:
     _fit = Ff.Fitness(_input.items_list, _binary.New_gen, 11)
