@@ -19,7 +19,6 @@ SOFTWARE REQUIREMENT:-
 	
 CONTACT INFO:-
 	EmailID :- imallok@yahoo.in
-	Contact Number:- 8882021236
 	
 EXTERNAL LINK:-
 
